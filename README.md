@@ -14,10 +14,11 @@
 ## Connect with me:
 https://www.linkedin.com/in/alejandra-ni%C3%B1o-front-end-developer/
 
-## Languages and Tools:
-- **css3**
-- **firebase**
+## Skills:
+- **CSS3**
+- **Firebase**
 - **git**
-- **html5**
-- **javascript**
+- **HTML5**
+- **Javascript**
+- **REACT**
 
